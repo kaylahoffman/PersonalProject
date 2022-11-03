@@ -1,16 +1,14 @@
     
 
-PA3
+Personal Project
 ===
-
+Based on:
 COSI 103A -- Brandeis University
 ================================
 
 ##### Professor Timothy J. Hickey
 
-##### GROUP 20
-
-###### Date: 04/21/22
+###### Date: 11/2/22
 
 * * *
 
@@ -42,4 +40,4 @@ In order to run the app in your browser locally, enter the command: `npm start` 
 
 * * *
 
-_© 2022 MASON WARE_
+_© 2022 Kayla Hoffman_
